@@ -7,6 +7,7 @@
 .btn-round{
 	border-radius: 40px
 }
+
 .bg-image{
 	background-image: url('https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/13880120_10208683768786660_8027856589650328844_n.jpg?oh=20207a54e30a705bf03e58adcbe63720&oe=59309558');
 	background-size: cover;
@@ -26,8 +27,8 @@
 
 .bg-imagesection3{
 	background-image: url('http://media.gettyimages.com/videos/young-woman-swimming-in-swimming-pool-ravellocampania-video-id128513051?s=640x640');
-	padding-top: 175px;
-	padding-bottom: 150px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 
 .no-bottom-margin{
